@@ -3,7 +3,6 @@
 namespace App;
 
 use GuzzleHttp\Client;
-use App\Factories\ProductFactory;
 use App\UseCases\ExtractProductFromPageUseCase;
 use Symfony\Component\DomCrawler\Crawler;
 
